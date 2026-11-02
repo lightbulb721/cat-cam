@@ -1,0 +1,5 @@
+ai_edge_litert==2.3.0
+numpy==2.5.4
+opencv_python==5.0.0.93
+opencv_python_headless==5.0.0.93
+picamera2==0.3.38
